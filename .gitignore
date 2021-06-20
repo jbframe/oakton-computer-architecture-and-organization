@@ -1,7 +1,8 @@
 # Course content
 content/
 .DS_Store
-
+hw/hw docx
+labs/labs docx
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
