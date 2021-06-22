@@ -2,6 +2,7 @@
 // 1/ Install the VS Code java extension pack by opening the following in a browser: vscode:extension/vscjava.vscode-java-pack
 // 2/ Create a file with the code from here:https://github.com/jbframe/oakton-computer-architecture-and-organization/blob/main/Labs/Lab3/BinaryToDecimal.java named BinaryToDecimal.java
 // 3/ A "JAVA PPROJECTS" section will now appear in the VS Code explorer pane. Hover over the root project folder and hit the play button. Congrats! You just became a Java developer with your fancy new Java IDE, time to update your resume!
+// VS CODE DOCS ARE HERE: https://code.visualstudio.com/docs/languages/java
 // 4/ For a very easy to follow guide on the fundamentals of Java syntax and project organization check out
 // https://www.w3schools.com/java/java_syntax.asp
 
