@@ -1,3 +1,6 @@
+// if this is your first Java program check out this great guide on the fundamentals of Java syntax and project organization
+// https://www.w3schools.com/java/java_syntax.asp
+
 import java.util.Scanner;
 
 public class BinaryToDecimal
@@ -32,10 +35,6 @@ public class BinaryToDecimal
     f = line.charAt(5);
     g = line.charAt(6);
     h = line.charAt(7);
-
-    // check for ones complement
-
-
 
     // check to see result is negative and bits need to flipped
     if(a == '1') {
