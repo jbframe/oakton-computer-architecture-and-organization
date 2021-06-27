@@ -69,5 +69,11 @@ public class BinaryToDecimal
     System.out.println("" );
     System.out.println(" is " + decNum);
     cin.close();
+
+
+
+
+
+
   }
 }
